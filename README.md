@@ -35,7 +35,7 @@
 
 ## 🔄 CI/CD & GitOps
 <p>
-  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,argocd,bash" />
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,argocd" />
 </p>
 
 ## 📈 Monitoring & Observability
