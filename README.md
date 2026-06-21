@@ -44,7 +44,7 @@
 
 ## 💻 Development & Scripting
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,bash" />
+  <img src="https://skillicons.dev/icons?i=mysql,bash" />
 </p>
 
 ## 🔧 Tools & Platforms
@@ -66,15 +66,15 @@
 
 # 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManavDhruve&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManavDhruve&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Manav015&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manav015&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
 # 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ManavDhruve&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Manav015&theme=tokyonight" />
 </p>
 
 ---
