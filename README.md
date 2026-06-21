@@ -4,7 +4,7 @@
   Passionate about automating infrastructure, building CI/CD pipelines, and bridging the gap between development and operations.
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ManavDhruve&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Manav015&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -14,6 +14,7 @@
 - 🚀 Currently transitioning into a DevOps Engineering role
 - 🛠️ Hands-on with AWS, Azure, Linux, and Networking fundamentals
 - 🌱 Learning and applying Terraform, Ansible, Kubernetes & Docker for IaC and container orchestration
+- 🔧 Building CI/CD pipelines with Jenkins & GitHub Actions, scripting automation with Bash
 - 📊 Experience with monitoring stacks (Grafana, Prometheus) and GitOps (Argo CD)
 - 🎯 Goal: Build reliable, automated, and scalable infrastructure pipelines
 - 🎫 Familiar with enterprise support workflows using Jira & ConnectWise
@@ -34,7 +35,7 @@
 
 ## 🔄 CI/CD & GitOps
 <p>
-  <img src="https://skillicons.dev/icons?i=githubactions,gitlab,argocd" />
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,argocd,bash" />
 </p>
 
 ## 📈 Monitoring & Observability
@@ -42,9 +43,9 @@
   <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
 </p>
 
-## 💻 Development & Scripting
+## 💻 Development
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,bash" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ## 🔧 Tools & Platforms
@@ -57,7 +58,7 @@
 # 🎯 Current Focus
 - ☁️ Deepening AWS & Azure cloud infrastructure expertise
 - 🏗️ Building Infrastructure as Code with Terraform & Ansible
-- 🔄 Designing CI/CD pipelines for automated deployments
+- 🔄 Designing CI/CD pipelines with Jenkins & GitHub Actions
 - ☸️ Container orchestration with Kubernetes & Docker
 - 📊 Setting up monitoring & alerting with Grafana + Prometheus
 - 🔁 Practicing GitOps workflows with Argo CD
