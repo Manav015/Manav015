@@ -35,7 +35,8 @@
 
 ## 🔄 CI/CD & GitOps
 <p>
-  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,argocd" />
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab" />
+  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
 </p>
 
 ## 📈 Monitoring & Observability
